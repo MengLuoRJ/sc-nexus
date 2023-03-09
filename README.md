@@ -1,5 +1,5 @@
-# SC Nexus Hub Application
-Nexus Hub Applice for SC Community
+# SC Nexus Application
+Nexus Application for SC Community
 
 ## Features
 
